@@ -1,0 +1,180 @@
+{
+    "id": 1,
+    "categorias": [
+      {
+        "id": 101,
+        "nombre": "Comida",
+        "productos": [
+          {
+            "id":1,
+            "nombre":"Aceite",
+            "precio": 799.00,
+            "imagen":"./imagenes/Productos/aceite.jpg"
+        },
+    
+        {
+            "id":2,
+            "nombre":"Huevos",
+            "precio": 3350,
+            "imagen":"./imagenes/Productos/huevos.jpg"
+        },
+        
+        {
+            "id":3,
+            "nombre":"Paquete de pollo 2kG",
+            "precio": 1350,
+            "imagen":"./imagenes/Productos/pollo.jpg"
+        },
+        
+        {
+            "id":4,
+            "nombre":"Habana Club",
+            "precio": 1500,
+            "imagen":"./imagenes/Productos/ron.jpg"
+        },
+        
+        {
+            "id":5,
+            "nombre":"Chupa Chups",
+            "precio": 65,
+            "imagen":"./imagenes/Productos/lolipop.jpg"
+        },
+        {
+            "id":6,
+            "nombre":"Perro caliente",
+            "precio": 550,
+            "imagen":"./imagenes/Productos/salchicha.jpg"
+        },
+    
+        {
+            "id":7,
+            "nombre":"Espaguetis",
+            "precio": 450,
+            "imagen":"./imagenes/Productos/spagueti.jpg"
+        },
+        
+        {
+            "id":8,
+            "nombre":"Sprinte",
+            "precio": 220,
+            "imagen":"./imagenes/Productos/refresco-spriter.jpg"
+        },
+        
+        {
+            "id":9,
+            "nombre":"Coca Cola",
+            "precio": 220,
+            "imagen":"./imagenes/Productos/refresco-coca-cola.jpg"
+        }
+        ]
+      },
+      {
+        "id": 102,
+        "nombre": "Hogar",
+        "productos": [
+          
+          {
+            "id":10,
+            "nombre":"Detergente",
+            "precio": 1200,
+            "imagen":"./imagenes/Productos/detergente.jpg"
+        },
+        {
+            "id":11,
+            "nombre":"Jabon",
+            "precio": 250,
+            "imagen":"./imagenes/Productos/jabon.jpg"
+        },
+    
+        {
+            "id":12,
+            "nombre":"Cepillo de dientes",
+            "precio": 350,
+            "imagen":"./imagenes/Productos/cepillo.jpg"
+        },
+        
+        {
+            "id":13,
+            "nombre":"Pasta dental",
+            "precio": 700,
+            "imagen":"./imagenes/Productos/pasta.jpg"
+        },
+        
+        {
+            "id":14,
+            "nombre":"Champu",
+            "precio": 1600,
+            "imagen":"./imagenes/Productos/champu.jpg"
+        }
+        ]
+      },
+      {
+        "id": 103,
+        "nombre": "Ropa",
+        "productos": [
+          {
+            "id":19,
+            "nombre":"Gorra",
+            "precio": 1200,
+            "imagen":"./imagenes/Productos/gorra.jpg"
+        },
+        
+        {
+            "id":20,
+            "nombre":"Abrigo",
+            "precio": 3000,
+            "imagen":"./imagenes/Productos/abrigo.jpg"
+        },
+        {
+            "id":21,
+            "nombre":"Pantalon negro",
+            "precio": 3000,
+            "imagen":"./imagenes/Productos/pantalon.jpg"
+        },
+        
+        {
+            "id":22,
+            "nombre":"Cinto",
+            "precio": 2500,
+            "imagen":"./imagenes/Productos/cinto.jpg"
+        }
+        ]
+      },
+      {
+        "id": 104,
+        "nombre": "Electronico",
+        "productos": [
+          
+          {
+            "id":15,
+            "nombre":"Bombillo",
+            "precio": 1200,
+            "imagen":"./imagenes/Productos/bombillo.jpg"
+        },
+        {
+            "id":16,
+            "nombre":"USD 64GB",
+            "precio": 250,
+            "imagen":"./imagenes/Productos/pendrive.jpg"
+        },
+    
+        {
+            "id":17,
+            "nombre":"Pila AA",
+            "precio": 350,
+            "imagen":"./imagenes/Productos/pila.jpg"
+        },
+        
+        {
+            "id":18,
+            "nombre":"Vaper",
+            "precio": 700,
+            "imagen":"./imagenes/Productos/vaper.jpg"
+        }
+        
+        ]
+      }
+    ]
+  }
+  
+  
