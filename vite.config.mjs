@@ -71,5 +71,5 @@ export default defineConfig({
       },
     },
   },
-  base: "https://michelmarcell.github.io/dlgstore"
+  base: "https://michelmarcell.github.io/dlgstore.github.io"
 })
