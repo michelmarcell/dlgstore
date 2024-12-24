@@ -20,7 +20,7 @@
       <div class="pt-0">
         <p>Sobre .DLG</p>
 
-<p>DLG es una tienda online dedicada a ofrecer una experiencia de compra única y conveniente. Nos especializamos en brindar productos de alta calidad a precios competitivos, con un enfoque en la satisfacción del cliente. Nuestra amplia variedad de productos está diseñada para satisfacer las necesidades de todos nuestros usuarios, desde tecnología hasta artículos para el hogar.
+<p>.DLG es una tienda online dedicada a ofrecer una experiencia de compra única y conveniente. Nos especializamos en brindar productos de alta calidad a precios competitivos, con un enfoque en la satisfacción del cliente. Nuestra amplia variedad de productos está diseñada para satisfacer las necesidades de todos nuestros usuarios, desde tecnología hasta artículos para el hogar.
 
 Comprometidos con la excelencia, DLG asegura un proceso de compra sencillo, seguro y rápido. Trabajamos con los mejores proveedores para ofrecerte lo último en tendencias, con envíos rápidos y atención al cliente personalizada.
 

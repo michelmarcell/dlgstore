@@ -15,7 +15,7 @@ import { fileURLToPath, URL } from 'node:url'
 export default defineConfig({
   plugins: [
     VueRouter(),
-    Layouts(),
+    Layouts(), 
     Vue({
       template: { transformAssetUrls }
     }),
@@ -71,4 +71,5 @@ export default defineConfig({
       },
     },
   },
+  base: "https://michelmarcell.github.io/dlgstore"
 })
