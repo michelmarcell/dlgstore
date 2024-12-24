@@ -189,7 +189,7 @@ const sendOrder = () => {
     )
     .join("\n")}\n\nTotal: $${cartTotal.value}\n\nDatos del Cliente:\nNombre: ${form.value.nombre}\nApellido: ${form.value.apellido}\nDirección: ${form.value.direccion}`;
 
-  const whatsappUrl = `https://wa.me/55725921?text=${encodeURIComponent(orderText)}`;
+  const whatsappUrl = `https://wa.me/58784497?text=${encodeURIComponent(orderText)}`;
   window.open(whatsappUrl, "_blank");
   showForm.value = false;
   showCart.value = false;
